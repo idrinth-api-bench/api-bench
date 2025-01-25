@@ -31,7 +31,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.6.0",
     "knip": "^5.43.3",
-    "markdownlint-cli": "^0.43.0",
+    "markdownlint-cli": "^0.44.0",
     "simple-git-hooks": "^2.11.1",
     "spellchecker-cli": "^7.0.0"
   },

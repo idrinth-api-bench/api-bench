@@ -29,7 +29,7 @@
   },
   "private": true,
   "devDependencies": {
-    "@commitlint/cli": "^19.6.0",
+    "@commitlint/cli": "^19.7.1",
     "knip": "^5.43.3",
     "markdownlint-cli": "^0.44.0",
     "simple-git-hooks": "^2.11.1",
